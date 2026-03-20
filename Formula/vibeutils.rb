@@ -1,8 +1,8 @@
 class Vibeutils < Formula
   desc "Modern Unix utilities with colors, icons, and progress bars"
   homepage "https://github.com/kelp/vibeutils"
-  url "https://github.com/kelp/vibeutils/releases/download/v0.7.3/vibeutils-0.7.3-darwin-arm64.tar.gz"
-  sha256 "370e05769ea6ef4e969e9e10d2a0ee109412ce2d2790c335467260705c55dc6c"
+  url "https://github.com/kelp/vibeutils/releases/download/v0.8.0/vibeutils-0.8.0-darwin-arm64.tar.gz"
+  sha256 "70a7ca6c45633697692c3dfa1aa37d24659272337e6176ecb6128a71e401a365"
   license "MIT"
   head "https://github.com/kelp/vibeutils.git", branch: "main"
 
