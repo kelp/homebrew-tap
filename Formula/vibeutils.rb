@@ -8,7 +8,7 @@ class Vibeutils < Formula
 
   bottle do
     root_url "https://github.com/kelp/vibeutils/releases/download/v0.8.3"
-    sha256 cellar: :any_skip_relocation, arm64_sequoia: "56345c440dbe3926dcbca4347c22902adb0b828232c5dc329087bf69f7a25f4a"
+    sha256 cellar: :any_skip_relocation, arm64_sequoia: "1231aa55d29c477aa3474056ec79b1cda23c8c35b739557b53b1d74e797f863c"
   end
 
   depends_on "zig" => :build
