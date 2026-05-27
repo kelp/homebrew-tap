@@ -1,14 +1,14 @@
 class Vibeutils < Formula
   desc "Modern Unix utilities with colors, icons, and progress bars"
   homepage "https://github.com/kelp/vibeutils"
-  url "https://github.com/kelp/vibeutils/archive/refs/tags/v0.9.3.tar.gz"
-  sha256 "afe9e18a1d7be265686e7cb89d17ad638ac4db3b39514c265f1b414bdbf198c4"
+  url "https://github.com/kelp/vibeutils/archive/refs/tags/v0.10.0.tar.gz"
+  sha256 "d345f1661c08b9769c7ceb18c3b7820ccfdb8578cce71a3c31bf3f2f38ac97cd"
   license "MIT"
   head "https://github.com/kelp/vibeutils.git", branch: "main"
 
   bottle do
-    root_url "https://github.com/kelp/vibeutils/releases/download/v0.9.3"
-    sha256 cellar: :any_skip_relocation, arm64_sequoia: "989d198bd26ce1c26efaa87eff28393eafddb7c3c30c27790e1b99cd761ddbc4"
+    root_url "https://github.com/kelp/vibeutils/releases/download/v0.10.0"
+    sha256 cellar: :any_skip_relocation, arm64_sequoia: "e70c79981955a640921eeb19d959e64ec718e6b7ba5ad67d133beaac81330423"
   end
 
   depends_on "zig" => :build
