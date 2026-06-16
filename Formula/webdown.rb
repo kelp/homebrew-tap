@@ -1,8 +1,8 @@
 class Webdown < Formula
   desc "CLI tool for converting web pages to clean, readable Markdown format"
   homepage "https://github.com/kelp/webdown"
-  url "https://files.pythonhosted.org/packages/source/w/webdown/webdown-0.6.3.tar.gz"
-  sha256 "9b11b36ebc19ea160b7418f4102483085bd4d092f8e3e99332872b6511a1e72b"
+  url "https://files.pythonhosted.org/packages/a2/9d/06c754889fec505ebc385cd676c2b2f165065ee119e2285efc47129b093a/webdown-0.8.2.tar.gz"
+  sha256 "3b9526f64430c57ec2a86fd18eb01ff97159bef9c4b8deba040b092cd20e11e8"
   license "MIT"
 
   depends_on "python"

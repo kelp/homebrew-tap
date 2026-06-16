@@ -1,8 +1,8 @@
 class Gale < Formula
   desc "Fast, isolated package management for developers"
   homepage "https://github.com/kelp/gale"
-  url "https://github.com/kelp/gale/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "a6787cb08abca1ee8c83b3f6081ead585ea32fbb527cff1a9ef65ac5c5b32b14"
+  url "https://github.com/kelp/gale/archive/refs/tags/v0.18.0.tar.gz"
+  sha256 "0346e0fd39ab4dbc5572977de1fb164742b140d2853392a5a837e05c3785ccf7"
   license "MIT"
   head "https://github.com/kelp/gale.git", branch: "main"
 

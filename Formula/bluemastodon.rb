@@ -1,8 +1,8 @@
 class Bluemastodon < Formula
   desc "A tool to synchronize posts from Bluesky to Mastodon"
   homepage "https://github.com/kelp/bluemastodon"
-  url "https://files.pythonhosted.org/packages/95/3a/d90ef719c0c5ed2876d132d988f006a027dbdfe7b60491864c1218f63ab5/bluemastodon-0.9.5.tar.gz"
-  sha256 "82b63eeb8b4d9cd6df0e63955e1bf7d2d9b51805b015fa90f1c2f87433a35b1f"
+  url "https://files.pythonhosted.org/packages/36/a7/d7b29ec3fb2406a4594ac6a1f384511a463dd6f3a5e1fef97da00cb94c29/bluemastodon-0.9.10.tar.gz"
+  sha256 "f85ca2881d313962139663d5c562fbf7a13c9d7404ec0f7af0cbdddfefed031d"
   license "MIT"
 
   depends_on "python"
